@@ -16,9 +16,9 @@ No external files needed! The data is randomly generated using statistical distr
 Built with Tkinter — clean buttons, no complex setup, just click and view.
 
 **Tech Stack:**
-Python
-Tkinter (GUI)
-Pandas (data handling)
-NumPy (data simulation)
-Matplotlib (plotting)
+Python,
+Tkinter (GUI),
+Pandas (data handling),
+NumPy (data simulation),
+Matplotlib (plotting),
 
