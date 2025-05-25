@@ -20,6 +20,9 @@ No external files needed! The data is randomly generated using statistical distr
 🖼️ User-Friendly Interface
 Built with Tkinter — clean buttons, no complex setup, just click and view.
 
+.
+.
+.
 
 
 **Tech Stack:**
